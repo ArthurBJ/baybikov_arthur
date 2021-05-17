@@ -1,0 +1,4 @@
+.calendar-item tr th:nth-child(6), .calendar-item tr th:nth-child(7),
+.calendar-item tr td:nth-child(6), .calendar-item tr td:nth-child(7) {
+    color: red;
+}
